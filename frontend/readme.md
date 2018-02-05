@@ -1,4 +1,4 @@
-# Project Module Web App Environment
+# Lab Frontend App Environment
 
 ## IDE
 VSCode https://go.microsoft.com/fwlink/?Linkid=852157
